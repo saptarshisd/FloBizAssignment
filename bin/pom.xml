@@ -17,7 +17,7 @@
 		<testng.version>6.14.2</testng.version>
 		<extent.version>2.40.2</extent.version>
 		<surefire.version>2.14.1</surefire.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<testng.version>6.8.8</testng.version>
 		<mysqlconnector.version>5.1.38</mysqlconnector.version>
 		<selenium.version>3.9.1</selenium.version>
